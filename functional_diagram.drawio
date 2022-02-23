@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-23T09:55:27.845Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="QA5Wz-ui92OBAwZuss_z" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-23T10:08:02.141Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="BlI_Gzd3vjMHAJvN1HV5" version="16.6.1" type="github">
   <diagram id="uAj6LAPRO0C9-dUJjiSC" name="Page-1">
     <mxGraphModel dx="1929" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -27,7 +27,7 @@
         <mxCell id="DKWv8m9irgkepOyZA7UV-7" value="Power supply&lt;br&gt;Battery/Net" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="656" y="410" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DKWv8m9irgkepOyZA7UV-9" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;Temp sensor&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="DKWv8m9irgkepOyZA7UV-9" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;Temp sensor, 3D printed enclosure&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="960" y="200" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DKWv8m9irgkepOyZA7UV-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="1" source="DKWv8m9irgkepOyZA7UV-13" target="DKWv8m9irgkepOyZA7UV-15">
@@ -36,10 +36,10 @@
         <mxCell id="DKWv8m9irgkepOyZA7UV-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;startArrow=classic;startFill=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="DKWv8m9irgkepOyZA7UV-13" target="DKWv8m9irgkepOyZA7UV-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DKWv8m9irgkepOyZA7UV-13" value="MCU" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="DKWv8m9irgkepOyZA7UV-13" value="MCU&lt;br&gt;Uno/Nano/RPI" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="821" y="410" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DKWv8m9irgkepOyZA7UV-15" value="Radio transmitter" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="DKWv8m9irgkepOyZA7UV-15" value="Radio transmitter&lt;br&gt;LoRa or something" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="811" y="310" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DKWv8m9irgkepOyZA7UV-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="DKWv8m9irgkepOyZA7UV-29" target="DKWv8m9irgkepOyZA7UV-17">
@@ -66,7 +66,7 @@
         <mxCell id="DKWv8m9irgkepOyZA7UV-37" value="Power supply&lt;br&gt;Battery/Net" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="-375" y="450" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DKWv8m9irgkepOyZA7UV-38" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;Control unit&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="DKWv8m9irgkepOyZA7UV-38" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;Control unit, 3D printed enclosure&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="-150" y="240" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DKWv8m9irgkepOyZA7UV-39" value="Temperature data" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="1" source="DKWv8m9irgkepOyZA7UV-42" target="DKWv8m9irgkepOyZA7UV-41">
@@ -75,10 +75,10 @@
         <mxCell id="DKWv8m9irgkepOyZA7UV-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;startArrow=classic;startFill=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="DKWv8m9irgkepOyZA7UV-41" target="DKWv8m9irgkepOyZA7UV-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DKWv8m9irgkepOyZA7UV-41" value="MCU" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="DKWv8m9irgkepOyZA7UV-41" value="MCU&lt;br&gt;Nano/Uno/RPI" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="-210" y="450" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DKWv8m9irgkepOyZA7UV-42" value="Radio transmitter" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="DKWv8m9irgkepOyZA7UV-42" value="Radio transmitter&lt;br&gt;LoRa or something" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="-220" y="350" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DKWv8m9irgkepOyZA7UV-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="DKWv8m9irgkepOyZA7UV-44" target="DKWv8m9irgkepOyZA7UV-47">
@@ -96,7 +96,7 @@
         <mxCell id="DKWv8m9irgkepOyZA7UV-47" value="Relay" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="-50" y="450" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DKWv8m9irgkepOyZA7UV-48" value="&lt;h1&gt;&lt;span&gt;Komponenter&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;https://www.kjell.com/se/produkter/el-verktyg/arduino/moduler/temperatursensor-med-kabel-for-arduino-p87081&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="DKWv8m9irgkepOyZA7UV-48" value="&lt;h1&gt;&lt;span&gt;Komponenter&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;https://www.kjell.com/se/produkter/el-verktyg/arduino/moduler/temperatursensor-med-kabel-for-arduino-p87081&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;br&gt;https://enless-wireless.com/en/products/temperature-transmitter-external-probe-pt1000-lora/&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="680" y="660" width="550" height="200" as="geometry" />
         </mxCell>
         <mxCell id="DKWv8m9irgkepOyZA7UV-49" value="&lt;h1&gt;&lt;span&gt;Komponenter&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;&lt;div&gt;&lt;span&gt;https://www.kjell.com/se/produkter/el-verktyg/arduino/moduler/relamodul-for-arduino-1x-p87032&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=15;" vertex="1" parent="1">
